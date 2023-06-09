@@ -1,0 +1,9 @@
+{
+    "appId": "realm-sync-tutorial-szrwx",
+    "appUrl": "https://realm.mongodb.com/groups/63c9ccbf619cbd7aa9a99c41/apps/64828965c04bda7bf538379b",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://realm.mongodb.com",
+    "dataApiBaseUrl": "https://data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/63c9ccbf619cbd7aa9a99c41/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
